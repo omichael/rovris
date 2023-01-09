@@ -1,4 +1,4 @@
-**RO**ute**V**ews and **RIS**.ripe.net BGP data
+**RO**ute**V**iews and **RIS**.ripe.net BGP data
 
 
 local testing with build via:
